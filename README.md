@@ -1,28 +1,25 @@
 # Classifying Cybersecurity Incidents with Machine Learning
 # Problem satement:
-  Classifying Cybersecurity Incidents with Machine Learning project aims to enhance the efficiency of Security Operation Centers (SOCs) by developing a machine learning model that can accurately predict the triage grade of cybersecurity incidents
-  utilizing the comprehensive GUIDE dataset.Project goal is to create a classification model that categorizes incidents as true positive (TP), benign positive (BP), or false positive (FP) 
-  based on historical evidence and customer responses. The model should be robust enough to support guided response systems in providing SOC analysts with precise, context-rich recommendations,
-  ultimately improving the overall security posture of enterprise environments.
+Classifying Cybersecurity Incidents with Machine Learning project aims to enhance the efficiency of Security Operation Centers (SOCs) by developing a machine learning model that can accurately predict the triage grade of cybersecurity incidents utilizing the comprehensive GUIDE dataset.Project goal is to create a classification model that categorizes incidents as true positive (TP), benign positive (BP), or false positive (FP) based on historical evidence and customer responses. The model should be robust enough to support guided response systems in providing SOC analysts with precise, context-rich recommendations, ultimately improving the overall security posture of enterprise environments.
 
 ## Technical Tags:
-●	Machine Learning
-●	Classification
-●	Cybersecurity
-●	Data Science
-●	Model Evaluation
-●	Feature Engineering
-●	SOC
-●	Threat Detection
+* Machine Learning
+* Classification
+* Cybersecurity
+* Data Science
+* Model Evaluation
+* Feature Engineering
+* SOC
+* Threat Detection
 
 
 ## SkillS:
-●	Data Preprocessing and Feature Engineering
-●	Machine Learning Classification Techniques
-●	Model Evaluation Metrics (Macro-F1 Score, Precision, Recall)
-●	Cybersecurity Concepts and Frameworks (MITRE ATT&CK)
-●	Handling Imbalanced Datasets
-●	Model Benchmarking and Optimization
+* Data Preprocessing and Feature Engineering
+* Machine Learning Classification Techniques
+* Model Evaluation Metrics (Macro-F1 Score, Precision, Recall)
+* Cybersecurity Concepts and Frameworks (MITRE ATT&CK)
+* Handling Imbalanced Datasets
+* Model Benchmarking and Optimization
 
 ## Approach:
 1.	Data Exploration and Understanding:
@@ -60,12 +57,13 @@
 
 ## Business Use Cases:
 The solution  that we developed in this project can be implemented in various business scenarios, particularly in the field of cybersecurity. Some potential applications include:
-●	Security Operation Centers (SOCs): Automating the triage process by accurately classifying cybersecurity incidents, thereby allowing SOC analysts to prioritize their efforts and respond to critical threats more efficiently.
-●	Incident Response Automation: Enabling guided response systems to automatically suggest appropriate actions for different types of incidents, leading to quicker mitigation of potential threats.
-●	Threat Intelligence: Enhancing threat detection capabilities by incorporating historical evidence and customer responses into the triage process, which can lead to more accurate identification of true and false positives.
-●	Enterprise Security Management: Improving the overall security posture of enterprise environments by reducing the number of false positives and ensuring that true threats are addressed promptly.
+*	Security Operation Centers (SOCs): Automating the triage process by accurately classifying cybersecurity incidents, thereby allowing SOC analysts to prioritize their efforts and respond to critical threats more efficiently.
+*	Incident Response Automation: Enabling guided response systems to automatically suggest appropriate actions for different types of incidents, leading to quicker mitigation of 
+ potential threats.
+*	Threat Intelligence: Enhancing threat detection capabilities by incorporating historical evidence and customer responses into the triage process, which can lead to more accurate identification of true and false positives.
+*	Enterprise Security Management: Improving the overall security posture of enterprise environments by reducing the number of false positives and ensuring that true threats are addressed promptly.
 
 ## References :
-Python Documentation :(https://docs.python.org/3/)
-EDA Documentation :(https://python-data-science.readthedocs.io/en/latest/exploratory.html)
-Scikit-learn documentation:(https://scikit-learn.org/stable/user_guide.html)
+* Python Documentation :(https://docs.python.org/3/)
+* EDA Documentation :(https://python-data-science.readthedocs.io/en/latest/exploratory.html)
+* Scikit-learn documentation:(https://scikit-learn.org/stable/user_guide.html)
