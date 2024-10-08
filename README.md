@@ -23,12 +23,12 @@ Classifying Cybersecurity Incidents with Machine Learning project aims to enhanc
 
 ## Approach:
 1. **Data Exploration and Understanding:**
-    a.	Initial Inspection: we Start by loading the train.csv dataset and perform an initial inspection to understand the structure of the data, including the number of 
-        features, types of variables (categorical, numerical), and the distribution of the target variable (TP, BP, FP).
-    b.	Exploratory Data Analysis (EDA): Used visualizations and statistical summaries to identify patterns, correlations, and potential anomalies in the data. Given special 
-        attention to class imbalances by handling them with SMOTE technique.
+   - Initial Inspection: we Start by loading the train.csv dataset and perform an initial inspection to understand the structure of the data, including the number of 
+     features, types of variables (categorical, numerical), and the distribution of the target variable (TP, BP, FP).
+   -  Data Analysis (EDA): Used visualizations and statistical summaries to identify patterns, correlations, and potential anomalies in the data. Given special 
+     attention to class imbalances by handling them with SMOTE technique.
 2.	**Data Preprocessing:**
-    a.	Handling Missing Data: Identified any missing values in the dataset and decide on an appropriate strategy, such as imputation, removing affected rows, or using models 
+    a. Handling Missing Data: Identified any missing values in the dataset and decide on an appropriate strategy, such as imputation, removing affected rows, or using models 
         that can handle missing data inherently.
     b.	Feature Engineering: Creating new features or modified existing ones to improve model performance. For example, combining related features, deriving new features from 
         timestamps (like hour of the day or day of the week), or normalizing numerical variables.
